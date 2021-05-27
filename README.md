@@ -11,3 +11,5 @@ localhost:3001/createUser
 localhost:3001/getUser?id=3 or localhost:3001/getUser
 
 localhost:3000/updateUser
+
+4. To run the test cases, npm test. It will provide the code coverage as well. 
