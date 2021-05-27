@@ -1,0 +1,11 @@
+{
+    "NODE_ENV": "test",
+    "POSTGRES":{
+        "HOST": "localhost",
+        "PORT": 5432,
+        "DB": "test",
+        "USERNAME": "admin",
+        "PASSWORD": "password",
+        "SSL": false
+}
+}

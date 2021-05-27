@@ -1,0 +1,11 @@
+{
+    "NODE_ENV": "default",
+    "POSTGRES":{
+        "HOST": "localhost",
+        "PORT": 5432,
+        "DB": "postgres",
+        "USERNAME": "admin",
+        "PASSWORD": "password",
+        "SSL": false
+}
+}
